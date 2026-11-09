@@ -1,12 +1,12 @@
 # Snakes & Ladders 🚢
 
-A boat-themed take on the classic board game, built in Unity for **Games for Love's October game**.
+A fishing-themed take on the classic board game, built in Unity for **Games for Love's October game**.
 
 Forked from [GamesForLoveBigTeam2/Snakes-and-ladders](https://github.com/GamesForLoveBigTeam2/Snakes-and-ladders).
 
 ## About the Game
 
-Two players race to reach the final square by rolling a die. Land at the bottom of a ladder to climb ahead, but land on a snake's head and you'll slide back down. First to the top wins!
+Four players race to reach the final square by rolling a die. Land at the bottom of a fishing lure to climb ahead, but land on an anchor, and you'll slide back down. First to the top wins!
 
 - 10×10 board with 100 squares
 - Roll a 6 for an extra turn
